@@ -1,9 +1,0 @@
-{
-  "server": {
-    "url": "ws://206.237.28.231:1443/loginwebsocks",
-    "password": "password@123",
-    "compress": true
-  },
-  "client_name": "windows7_44",
-  "log_file": "nt.log"
-}
